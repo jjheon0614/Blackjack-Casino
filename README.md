@@ -1,6 +1,12 @@
 # Blackjack Casino
 
-![PlayView](https://github.com/jjheon0614/Blackjack-Casino/assets/109039688/190611b0-942c-4833-a255-2c46b8b5da45){: width="20%" height="20%"}
+Play blackjack in ios application. The rule is same with the original blackjack game
 
 
-<img src="https://github.com/jjheon0614/MyOS/blob/main/MyOS_Image.png" alt="image" width="600" height="400">
+<div>
+  <img src="https://github.com/jjheon0614/Blackjack-Casino/blob/main/GIF/PlayView.gif" alt="image" width="200">
+
+  <img src="https://github.com/jjheon0614/Blackjack-Casino/blob/main/GIF/PlayView.gif" alt="image" width="200">
+  
+  <img src="https://github.com/jjheon0614/Blackjack-Casino/blob/main/GIF/PlayView.gif" alt="image" width="200">
+</div>
