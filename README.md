@@ -7,7 +7,7 @@ Play blackjack in ios application. The rule is same with the original blackjack 
 
   <img src="GIF/PlayView.gif" alt="image" width="200">
   
-  <img src="MenuView.gif" alt="image" width="200">
+  <img src="GIF/MenuView.gif" alt="image" width="200">
 </p>
 
 ## Features
